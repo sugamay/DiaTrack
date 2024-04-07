@@ -8,7 +8,7 @@ DiaTrack is a revolutionary health app designed to streamline diabetes managemen
 
 ## How we built it
 
-DiaTrack was built using Flutter, allowing us to create a cross-platform application with a seamless user experience. We focused on designing an intuitive interface that accommodates diverse user needs and preferences. Additionally, we compiled a comprehensive database of resources and information to ensure that users have access to valuable support and guidance.
+DiaTrack was built using Dart, allowing us to create a cross-platform application with a seamless user experience. We focused on designing an intuitive interface that accommodates diverse user needs and preferences. Additionally, we compiled a comprehensive database of resources and information to ensure that users have access to valuable support and guidance.
 
 ## Challenges we ran into
 
